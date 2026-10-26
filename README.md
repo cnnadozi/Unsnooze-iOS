@@ -2,7 +2,7 @@
 
 Join 5,000+ users and turn your alarm clock into a challenge by completing physical and mental activities
 
-Download for iOS: https://apps.apple.com/us/app/unsnooze-challenge-alarm-clock/id6758871228<br>
+Download for iOS: https://www.tryunsnooze.com/en
 
 ## Features
 * Create & Manage Alarms: Set alarms for any schedule and customize them to fit your morning routine.
