@@ -2,7 +2,8 @@
 
 Join 5,000+ users and turn your alarm clock into a challenge by completing physical and mental activities
 
-Download for iOS: https://www.tryunsnooze.com/en
+Download for iOS: https://apps.apple.com/us/app/unsnooze-challenge-alarm/id6758871228
+Promo website: https://www.tryunsnooze.com/en
 
 ## Features
 * Create & Manage Alarms: Set alarms for any schedule and customize them to fit your morning routine.
@@ -16,16 +17,4 @@ Download for iOS: https://www.tryunsnooze.com/en
 
 ## Built With
 React Native, Expo, TypeScript / JavaScript, SQLite, Firebase, Swift
-
-## Pictures
-<p style="white-space: nowrap;">
-  <img width="150" alt="Screenshot 1" src="Apple iPhone 16 Pro Max Screenshot 1.png" />
-  <img width="150" alt="Screenshot 2" src="Apple iPhone 16 Pro Max Screenshot 2.png" />
-  <img width="150" alt="Screenshot 3" src="Apple iPhone 16 Pro Max Screenshot 3.png" />
-  <img width="150" alt="Screenshot 4" src="Apple iPhone 16 Pro Max Screenshot 4.png" />
-  <img width="150" alt="Screenshot 5" src="Apple iPhone 16 Pro Max Screenshot 5.png" />
-  <img width="150" alt="Screenshot 6" src="Apple iPhone 16 Pro Max Screenshot 6.png" />
-</p>
-
-
 
